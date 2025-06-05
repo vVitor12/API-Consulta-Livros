@@ -5,8 +5,9 @@
 - Adicionar ou deletar livros.
 
 🛠️ Tecnologias:
-Python 🐍	Linguagem principal da aplicação
-Flask 🔥	Microframework web usado para criar a API
+Python ->	Linguagem principal da aplicação
+
+Flask -> Microframework web usado para criar a API
 
 Obs: utilizei o software Postman para testar a API. 
 Postman -> ferramenta gráfica usada para testar, documentar e consumir APIs.
