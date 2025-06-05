@@ -5,6 +5,7 @@
 - Adicionar ou deletar livros.
 
 🛠️ Tecnologias:
+
 Python ->	Linguagem principal da aplicação
 
 Flask -> Microframework web usado para criar a API
